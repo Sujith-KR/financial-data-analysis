@@ -74,13 +74,12 @@ pip install -r requirements.txt
 jupyter notebook financial_data_analysis.ipynb
 ```
 
-## 🤝 Contributing
+## 👤 Author
 
-Feel free to fork this repository, raise issues, or submit pull requests.
+#### Sujith K R
+####Senior Accountant & Aspiring Data/Business Analyst
+🌐 [LinkedIn](https://www.linkedin.com/in/kr-sujith)
 
-## 📬 Contact
-
-For queries or collaborations, contact: [your-email@example.com]
 
 ---
 **Note:** All data used in this project is synthetically generated and intended for learning purposes only.
